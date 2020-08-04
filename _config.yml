@@ -5,8 +5,10 @@
 header_pages:
   - index.md
   - about.md
+  - lh1008.md
+  - contact.md
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow me on <a href="https://twitter.com/lh1008">twitter</a>'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)

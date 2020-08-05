@@ -11,4 +11,6 @@ This project is aimed to work the [@moneroJobsBot](https://t.me/monerojobsbot) f
 
 <b>- The Bot's first feature welcomes users when they enter the chat group. Check it out [@moneroservicestaff](https://t.me/moneroservicestaff).
 
+	<br>- GitHub's project [README](https://repo.getmonero.org/churchofmonero/monerojobsbot/-/blob/master/README.md).
+
 <br>Check the repository for updates <a href="https://repo.getmonero.org/churchofmonero/monerojobsbot">@moneroJobsBot</a>. (monerojobsbot's repository is powered by Monero's community custom Gitlab's server.)

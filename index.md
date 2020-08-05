@@ -8,4 +8,4 @@ permalink: /
 
 Learning about the world is my goal. Building a new world is my passion.
 
-## update check
+## projects update

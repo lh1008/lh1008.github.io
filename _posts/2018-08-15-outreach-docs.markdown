@@ -10,6 +10,6 @@ outreach-docs is a project for localizing <a href="https://www.monerooutreach.or
 
 <br><img src="../../../assets/images/monero-outreach.jpg" alt="Logo" width="40%"/>
 
-<br><<b>GitHub's project [README](https://github.com/monero-ecosystem/outreach-docs/blob/master/README.md). <a href="https://www.monerooutreach.org/">Site</a></b>
+<br><b>GitHub's project [README](https://github.com/monero-ecosystem/outreach-docs/blob/master/README.md).<br><a href="https://www.monerooutreach.org/">Site</a></b>
 
 <br>Check [outreach-doc's](https://github.com/monero-ecosystem/outreach-docs) repository.  

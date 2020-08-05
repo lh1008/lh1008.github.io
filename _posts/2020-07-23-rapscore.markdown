@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "rapscore"
+date:   2020-07-23 00:00:00 +0100
+categories:
+---
+
+# rapscore
+Rapscore is our foundations project inside Holberton School. This project proposes a workforce based credit system, implementing technology and performance. The main goal is to facilitate fast loan access to workers based on their performance.
+
+The project built-in languages are Python for APIs calls (RESTful) and MySQL connection database management. HTMl, CSS, and JavaScript were used for the web framework deployment. This was a 3 weeks project.
+
+<br>Check [RapScore's](https://github.com/KevinCastroP/RapScore_MVP) repository. 

@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "Syntax highlighting"
-date:   2019-11-06 01:11:00 +0100
+date:   2020-08-05 16:26:00 +0100
 categories:
 ---
 
 # Syntax highlighting
-This theme supports syntax respectively code highlighting. Below you find some examples of different programming languages.
+
+This section is for posting code snippets :P.
+
+Below you find some examples of different programming languages. See how the code highlights itself.
 
 <br />ruby:
 {% highlight ruby %}

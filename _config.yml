@@ -8,7 +8,7 @@ header_pages:
   - lh1008.md
   - contact.md
 
-footer: 'follow me on <a href="https://twitter.com/lh1008">twitter</a>'
+footer: 'follow me on <a href="https://twitter.com/lh1008">twitter</a><br>'
 footer1: 'check my <a href="https://github.com/lh1008/">github</a>'
 
 style: light # dark (default) or light

@@ -10,6 +10,8 @@ Rapscore is our foundations project inside Holberton School. This project propos
 
 <br>The project built-in languages are Python for APIs calls (RESTful) and MySQL connection database management. HTMl, CSS, and JavaScript were used for the web framework deployment. This was a 3 weeks project.
 
+<br><img src="../../../assets/images/rapscore.jpg" alt="Logo" width="40%"/>
+
 <br><b>GitHub's project [README](https://github.com/KevinCastroP/RapScore_MVP/blob/dev/README.md).</b>
 
 <br>Check [RapScore's](https://github.com/KevinCastroP/RapScore_MVP) repository. 

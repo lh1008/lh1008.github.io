@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "@moneroJobsBot"
-date:   2020-25-07 14:52:00 +0100
+date:   2020-07-25 14:52:00 +0100
 categories:
 ---
 

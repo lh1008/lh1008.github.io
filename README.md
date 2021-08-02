@@ -1,5 +1,7 @@
 ### Personal Website
 
+![alt text](https://github.com/lh1008/lh1008.github.io/blob/master/hello.png)
+
 This is my personal project for my website dedicated to my profile as a Software Engineer. 
 
 - You can check my [LinkedIn](https://www.linkedin.com/in/lh1008/)

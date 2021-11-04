@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "monero_outreach_nodes"
-date:   2020-07-01 00:00:00 +0100
+date:   2021-07-01 00:00:00 +0100
 categories:
 ---
 

@@ -11,8 +11,8 @@ categories:
 # node.monerooutreach
 <a href="https://node.monerooutreach.org/" target="_blank">Monero Outreach Public Vanilla-node</a> is a <a href="https://www.getmonero.org/resources/moneropedia/remote-node.html" target="_blank">Monero open remote node</a> that can be relayed by Monero users publicly available on the Monero Network.
 
-I'm an active volunteer monitoring the server and uploading <a href="https://www.getmonero.org/downloads/#cli" target="_blank">Monero latest software releases</a>.  
+<br>I'm an active volunteer monitoring the server and uploading <a href="https://www.getmonero.org/downloads/#cli" target="_blank">Monero latest software releases</a>.  
 
 <br><img src="../../../assets/images/monero-outreach-node-og.jpg" alt="Logo" width="40%"/>
 
-The nodes are publicly available, check them out!
+<br>The nodes are publicly available, check them out!

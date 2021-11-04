@@ -15,4 +15,4 @@ This project is aimed to work the <b>[@moneroJobsBot](https://t.me/monerojobsbot
 
 <br><b>- GitHub's project [README](https://repo.getmonero.org/churchofmonero/monerojobsbot/-/blob/master/README.md).</b>
 
-<br>Check the repository for updates <b><a href="https://repo.getmonero.org/churchofmonero/monerojobsbot">@moneroJobsBot</a></b>. (monerojobsbot's repository is powered by Monero's community custom Gitlab's server.)
+<br>Check the repository for updates <b><a href="https://repo.getmonero.org/churchofmonero/monerojobsbot" target="_blank">@moneroJobsBot</a></b>. (monerojobsbot's repository is powered by Monero's community custom Gitlab's server.)

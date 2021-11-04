@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<br><img src="../../../assets/images/hello.png" alt="Logo" width="80%"/>
+<br><img src="../../../assets/images/hello.png" alt="Logo" width="60%" margin-left="auto" margin-right="auto"/>
 
 # building our present.
 

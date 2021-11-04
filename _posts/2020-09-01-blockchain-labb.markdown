@@ -6,10 +6,10 @@ categories:
 ---
 
 # blockchain labb
-<a href="https://www.blockchainlabb.io/" target="_blank">Blockchain Labb</a> is an NFT marketplace startup. We had to design and restructure Blockchain Labb's original idea. From an IT blockchain consultant into an NFT marketplace.
+<a href="https://www.blockchainlabb.io/" target="_blank">Blockchain Labb</a> is an NFT marketplace startup. We had to design and restructure Blockchain Labb's original idea. From an IT blockchain consultant site into an NFT marketplace.
 
-I was the lead team full-stack Software Engineer. Managed a team of 3 developers (including myself) to build and design Blockchain Labb's MVP (Minimum Viable Product). 
+I was the lead team full-stack Software Engineer. Lead a team of 2 developers to build and design Blockchain Labb's MVP (Minimum Viable Product). 
 
 <br><img src="../../../assets/images/blockchain_labb_transparent.png" alt="Logo" width="40%"/>
 
-Check the website for launching date!
+Check <a href="https://www.blockchainlabb.io/" target="_blank"><b>Blockchain Labb's</b></a> website for launching date!

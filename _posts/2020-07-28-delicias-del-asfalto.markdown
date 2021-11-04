@@ -10,6 +10,4 @@ Delicias del Asfalto is a HTML, CSS, JavaScript built-in website that displays a
 
 <br><img src="../../../assets/images/logo_delicias.png" alt="Logo" width="40%"/>
 
-<br><b>GitHub's project [README](https://github.com/lh1008/sabor/blob/master/README.md).
-
-<br>Check [Delicia's del Asfalto](https://github.com/lh1008/sabor) GitHub repository.
+<br>Check <b>[Delicia's del Asfalto](https://github.com/lh1008/sabor)</b> GitHub repository.

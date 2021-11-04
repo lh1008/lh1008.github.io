@@ -12,6 +12,6 @@ permalink: /about
 
 <br>I'm challenge motivated and a very disciplined person.
 
-<br>If you would like to talk with me, send me a message <a href="/contact">(/contact)</a>.
+<br>If you would like to talk with me, send me a message <a href="/contact">(<b>/contact</b>)</a>.
 
 <br>:)

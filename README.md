@@ -1,6 +1,6 @@
 ### Personal Website
 
-![alt text](https://github.com/lh1008/lh1008.github.io/blob/master/hello.png)
+![alt text](https://github.com/lh1008/lh1008.github.io/blob/master/assets/images/hello.png)
 
 Welcome to my personal repository project for my website dedicated to my profile as a Software Engineer. The jekyll theme designed I chose for my personal site remembered me the GNU/Linux terminal.
 

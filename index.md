@@ -4,9 +4,9 @@ layout: home
 permalink: /
 ---
 
-# building our present.
+# building the present.
 
-Learning about the world is my goal. Building a new world is my passion.
+Learning about the world is my goal. Building a new world is my passion. I'm building the present.
 
 <br><img src="../../../assets/images/hello.png" alt="Logo" width="40%" margin-left="auto" margin-right="auto"/>
 

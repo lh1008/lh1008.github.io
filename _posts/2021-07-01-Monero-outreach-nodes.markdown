@@ -6,13 +6,11 @@ categories:
 ---
 
 # rpc-node.monerooutreach
-<a href="https://rpc-node.monerooutreach.org/" target="_blank">RPC-pay Monero Outreach node</a> is a Monero node that enables RPC calls using mining hashes. Read more about: <a href="https://www.monerooutreach.org/stories/RPC-Pay.html" target="_blank">RPC-pay Monero Nodes</a>
+The **RPC-pay Monero Outreach** public node project was a project that had a public RPC Monero node enabled that could reach the Monero Blockchain through RPC calls. The RPC-Monero Outhreach node enabled the new RPC payment system using mining hashes. Read more about the RPC payment system directly from the: <a href="https://github.com/monero-project/monero/commit/2899379791b7542e4eb920b5d9d58cf232806937" target="_blank">commit</a>
 
 # node.monerooutreach
-<a href="https://node.monerooutreach.org/" target="_blank">Monero Outreach Public Vanilla-node</a> is a <a href="https://www.getmonero.org/resources/moneropedia/remote-node.html" target="_blank">Monero open remote node</a> that can be relayed by Monero users publicly available on the Monero Network.
-
-<br>I'm an active volunteer monitoring the server and uploading <a href="https://www.getmonero.org/downloads/#cli" target="_blank">Monero latest software releases</a>.  
+The **Monero Outreach Public Vanilla-node** was a public<a href="https://www.getmonero.org/resources/moneropedia/remote-node.html" target="_blank">Monero open remote node</a> that could be relayed by Monero users on the Monero Network.
 
 <br><img src="../../../assets/images/monero-outreach-node-og.jpg" alt="Logo" width="40%"/>
 
-<br>The nodes are publicly available, check them out!
+<br>Unfortunately the public nodes are no longer available. 

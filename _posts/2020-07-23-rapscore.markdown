@@ -6,12 +6,12 @@ categories:
 ---
 
 # rapscore
-Rapscore is our foundations project inside Holberton School. This project proposes a workforce based credit system, implementing technology and performance. The main goal is to facilitate fast loan access to workers based on their performance.
+Rapscore was our foundation project at Holberton's Programming School. This project proposed a workforce based credit system, implementing technology and performance. The main goal was to facilitate fast loan access to workers based on their performance.
 
-<br>The project built-in languages are Python for APIs calls (RESTful) and MySQL connection database management. HTMl, CSS, and JavaScript were used for the web framework deployment. This was a 3 weeks project.
+<br>The project backend was written in Python. We used MySQL as relational database management system and HTML, CSS, and JavaScript for the frontend.
 
 <br><img src="../../../assets/images/rapscore.jpg" alt="Logo" width="60%"/>
 
 <br><b>GitHub's project [README](https://github.com/KevinCastroP/RapScore_MVP/blob/dev/README.md).</b>
 
-<br>Check [RapScore's](https://github.com/KevinCastroP/RapScore_MVP) repository. 
+<br>Check out [RapScore's](https://github.com/KevinCastroP/RapScore_MVP) code. 

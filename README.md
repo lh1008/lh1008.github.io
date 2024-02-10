@@ -10,6 +10,6 @@ Check [my site](https://lh1008.github.io/).
 
 - You can check my [LinkedIn](https://www.linkedin.com/in/lh1008/)
 
-- Download my [Resume](https://github.com/lh1008/cv/raw/master/cv-software-engineer-Luis-Herrera.pdf)
+- Download my [Resume](https://raw.githubusercontent.com/lh1008/cv/master/Luis-Herrera_cv-software-engineer_2024.pdf)
 
 Website author: [b2a3e8](https://github.com/b2a3e8/jekyll-theme-console)

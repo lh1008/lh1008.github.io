@@ -6,10 +6,12 @@ categories:
 ---
 
 # outreach-docs
-outreach-docs is a project for localizing <a href="https://www.monerooutreach.org/" target="_blank">Monero Outreach</a> content. My responsabilities are task management and repository maintenance.
+**outreach-docs** was a project for localizing **Monero Outreach** content. The project aimed to translate articles that gave a soft technical explanation to Monero's technology.
+
+Get to know [Monero](https://www.getmonero.org/)!
 
 <br><img src="../../../assets/images/monero-outreach.jpg" alt="Logo" width="40%"/>
 
-<br><b>GitHub's project [README](https://github.com/monero-ecosystem/outreach-docs/blob/master/README.md).<br><a href="https://www.monerooutreach.org/" target="_blank">Site</a></b>
+<br><b>GitHub's project [README](https://github.com/monero-ecosystem/outreach-docs/blob/master/README.md).</b>
 
 <br>Check [outreach-doc's](https://github.com/monero-ecosystem/outreach-docs) repository.  

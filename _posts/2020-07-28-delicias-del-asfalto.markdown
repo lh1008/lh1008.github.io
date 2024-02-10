@@ -6,8 +6,8 @@ categories:
 ---
 
 # delicias del asfalto
-Delicias del Asfalto is a HTML, CSS, JavaScript built-in website that displays a video for a skateboards company called <a href="https://www.instagram.com/saborskateboards/?hl=en" target="_blank">Sabor Skateboards</a>.
+**Delicias del Asfalto** was a HTML, CSS, and JavaScript website that displayed a video for a skateboards company called <a href="https://www.instagram.com/saborskateboards/?hl=en" target="_blank">Sabor Skateboards</a>.
 
 <br><img src="../../../assets/images/logo_delicias.png" alt="Logo" width="40%"/>
 
-<br>Check <b>[Delicia's del Asfalto](https://github.com/lh1008/sabor)</b> GitHub repository.
+<br>**Delicia's del Asfalto** website code is available in my <b>[GitHub's repository](https://github.com/lh1008/sabor)</b>. Check it out!.

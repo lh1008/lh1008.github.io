@@ -6,12 +6,10 @@ permalink: /about
 
 # about lh1008
 
-<br>For the past 7 years, I have contributed to the open-source <a href="https://web.getmonero.org/" target="_blank">Monero Project</a> in different areas. Monero is a privacy-focused cryptocurrency project led by volunteers. I roled as the Communication Workgroup Coordinator for the <a href="https://github.com/monero-ecosystem/outreach-docs" target="_blank">Monero Outreach Workgroup</a> and I'm currently handling some social media related to Monero. In the Monero Outreach Workgroup my main tasks were to lead the localization workgroup and as junior IT server maintainer.
+<br>Since 2016 I've been contributing to the open-source <a href="https://web.getmonero.org/" target="_blank">Monero Project</a>. Monero is a privacy-focused cryptocurrency project led by volunteers. From 2018 to 2021 I roled as Communication Workgroup Coordinator. You can take a look at the <a href="https://github.com/monero-ecosystem/outreach-docs" target="_blank">Monero Outreach's Workgroup</a> repository. My main tasks were to lead the localization workgroup (translations) and as IT assistant. I'm currently involved in community building from Telegram.
 
-<br>I’ve always been an entrepreneur. What motivates me to be an entrepreneur is to work hard for a better world for the people around me. I started my software engineer career at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> to understand the technology behing Monero.
+<br>I started my software engineer career at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a>. I learned progamming fundamentals and blockchain technology with C programming language. 
 
-<br>I'm currently expanding my software engineering expertise. I'm currently working at [Addi](https://co.addi.com/) as **Support Engineer**. I'm a very challenge motivated person and very disciplined. I really like to learn new things.
+<br>I'm currently expanding my software engineering expertise and working at [Addi](https://co.addi.com/) as **Support Engineer** since 2021. I'm a very challenge motivated person.
 
-<br>If you would like to talk with me, send me a message <a href="/contact">(<b>/contact</b>)</a>.
-
-<br>:)
+<br>If you want to reach me out, send me a message <a href="/contact">(<b>/contact</b>)</a>.

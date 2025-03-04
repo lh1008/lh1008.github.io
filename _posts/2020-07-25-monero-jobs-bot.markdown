@@ -7,9 +7,9 @@ categories:
 
 # @moneroJobsBot
 
-This project is aimed to work the <b>[@moneroJobsBot](https://t.me/monerojobsbot)</b> for the <b>[@MoneroJobs](https://t.me/MoneroJobs)</b> Telegram chat group. This project will be mainly written in Python language.
+This project aims to build the <b>[@moneroJobsBot](https://t.me/monerojobsbot)</b> for the <b>[@MoneroJobs](https://t.me/MoneroJobs)</b> Telegram chat group. The project was written in Python.
 
-<br><b>- The Bot's first feature welcomes users when they enter the chat group. Check it out [@moneroservicestaff](https://t.me/moneroservicestaff).</b>
+<br><b>- The Bot's first feature welcomes users when they enter the chat group. Check it out [@moneroservicestaff](https://t.me/moneroservicestaff).</b> 
 
 <br><img src="../../../assets/images/monero-jobs-bot.jpg" alt="Logo" width="60%"/>
 

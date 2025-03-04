@@ -8,6 +8,6 @@ categories:
 # blockchain labb
 **Blockchain Labb** was an NFT marketplace startup. We designed and built Blockchain Labb's architecture from its original idea. From an IT blockchain consultant site into an NFT marketplace.
 
-I was the lead team full-stack Software Engineer. Lead a team of 2 developers to build and design Blockchain Labb's MVP (Minimum Viable Product). 
+I was the lead team full-stack Software Engineer. Lead a team of 2 developers to build and design Blockchain Labb's MVP (Minimum Viable Product). The project was built on Node.js.
 
 <br><img src="../../../assets/images/blockchain_labb_transparent.png" alt="Logo" width="40%"/>

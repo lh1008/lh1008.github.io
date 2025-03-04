@@ -6,7 +6,7 @@ categories:
 ---
 
 # rapscore
-Rapscore was our school foundations project at <b>[Holberton](https://www.holbertonschool.com/)</b>. This project proposed a workforce based credit system, implementing technology and performance. The main goal was to facilitate fast loan access to workers based on their performance.
+Rapscore was our school foundations project at <b>[Holberton](https://www.holbertonschool.com/)<b>. This project proposed a workforce based credit system, implementing technology and performance. The main goal was to facilitate fast loan access to workers based on their performance.
 
 <br>The project backend was written in Python. We used MySQL as relational database management system and HTML, CSS, and JavaScript for the frontend.
 
